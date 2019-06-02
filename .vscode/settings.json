@@ -1,0 +1,13 @@
+{
+	"editor.detectIndentation": false,
+	"editor.insertSpaces": false,
+	"files.eol": "\n",
+	"csscomb.preset": ".vscode/csscomb.json",
+	"phpcs.enable": true,
+	"phpcs.standard": "WordPress-Core",
+	"phpcbf.standard": "WordPress",
+	"beautify.options": {
+		"indent_size": 4,
+		"indent_with_tabs": true,
+	},
+}
